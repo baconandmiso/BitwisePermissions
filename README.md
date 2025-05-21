@@ -21,6 +21,3 @@ BitwisePermissions は，C#でビット演算を利用し権限を表現する�
 
 ## 動作環境
 - このサンプルコードは [.NET9](https://dotnet.microsoft.com/ja-jp/download) で動作します。
-
-## ライセンス
-このリポジトリは MIT ライセンスのもとで公開されています。
